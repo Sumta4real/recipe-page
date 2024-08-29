@@ -18,7 +18,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: (https://github.com/Sumta4real/recipe-page)
-- Live Site URL: (https://social-link-profile-page-six.vercel.app/)
+- Live Site URL: (https://recipe-page-three-sable.vercel.app/)
 
 ### Built with
 
