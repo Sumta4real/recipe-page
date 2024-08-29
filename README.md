@@ -29,11 +29,14 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### What I learned
 
-This project reinforces my knowledge of CSS flex and interactivity. 
+- This project reinforces my knowledge of CSS flex and interactivity. 
+- It deepened my knwowledge of HTML5 Semantics particularly the specific usage of each of the tags
 
 ### Useful Resources
 
 [Understanding the section tag usage and best practices in HTML5 Semantics](https://www.youtube.com/watch?v=ULdkpU51hTQ) - This gave me a comprehensive understanding of the section tag as part f the html5 semantics and the best practice while using it.
+[When to use section vs article vs div](https://www.youtube.com/watch?v=swWeWesZVZU&list=PLpWvGP6yhJUh861ba0RvGvb1Vlu-faG3X) - It helped me understand the difference in Usage of the section and article tag. 
+[Why and when to use semantic HTML or divs](https://www.youtube.com/watch?v=bOUhq46fd5g) - This showed me practical examples of semantic HTML usage and thus help deepened my knwledge of the concept.
 
 ## Author
 
