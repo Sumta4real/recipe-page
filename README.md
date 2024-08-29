@@ -31,6 +31,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - This project reinforces my knowledge of CSS flex and interactivity. 
 - It deepened my knwowledge of HTML5 Semantics particularly the specific usage of each of the tags
+- I learnt how to style the list marker items exclusively using the '::marker'CSS pseudo-code
 
 ### Useful Resources
 
