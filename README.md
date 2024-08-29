@@ -13,11 +13,11 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Screenshot
 
-![](PagePreview.PNG)
+![](page-preview.PNG)
 
 ### Links
 
-- Solution URL: (https://github.com/Sumta4real/Social-Link-Profile-Page)
+- Solution URL: (https://github.com/Sumta4real/recipe-page)
 - Live Site URL: (https://social-link-profile-page-six.vercel.app/)
 
 ### Built with

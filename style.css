@@ -9,11 +9,12 @@ body{
 }
 .recipe-container{
     background-color:hsl(0, 0%, 100%) ;
-    border-radius: 1rem;
+    border-radius: 1.5rem;
     width: 47%;
     padding: 2rem 2rem;
     box-sizing: border-box;
-
+    margin-top: 8%;
+    margin-bottom: 8% ;
 }
 .recipe-description{
     margin: 0 ;
@@ -22,6 +23,7 @@ body{
     font-family: "Young Serif", serif;
     font-weight: 400;
     font-size: 2.5rem;
+    margin-bottom: 0.2rem;
 }
 #recipe-about{
     font-size: 1rem;
@@ -30,13 +32,13 @@ body{
 #recipe-img{
     width:100%;
     height: 19rem;
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     max-width: 100%;
 }
 .preparation-time{
-    background-color: hsl(30, 54%, 90%);
+    background-color: hsl(330, 100%, 98%);
     padding: 0.5rem;
-    border-radius: 0.5rem;
+    border-radius: 1rem;
 }
 .preparation-time h3{
     margin: 1rem;
@@ -67,4 +69,20 @@ hr{
 .recipe-nutrition td{
     padding: 1rem;
     border-bottom: 1px solid #ddd;
+}
+.attribution 
+{
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a 
+{
+    color: hsl(228, 45%, 44%); 
+}
+footer 
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
 }
