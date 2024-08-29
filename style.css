@@ -57,7 +57,14 @@ hr{
 {
     margin-bottom: 0.5rem;
 }
-.recipe-instructions li::marker{
+.recipe-instructions li::marker, .nutrient-value{
     font-weight: bold;
     color: hsl(14, 45%, 36%);
+}
+.recipe-nutrition table{
+    width: 100%;
+}
+.recipe-nutrition td{
+    padding: 1rem;
+    border-bottom: 1px solid #ddd;
 }
