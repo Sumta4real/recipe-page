@@ -44,6 +44,9 @@ body{
     margin: 1rem;
     color: hsl(332, 51%, 32%);
 }
+.preparation-time li{
+    padding: 0.5rem;
+}
 .bold{
     font-weight: bold;
 }
@@ -52,12 +55,16 @@ body{
     font-family: "Young Serif", serif;
     font-weight: 400;
 }
+.recipe-ingredients li{
+    padding: 0.5rem;
+}
 hr{
     margin-top: 1.5rem;
 }
 .recipe-instructions li
 {
-    margin-bottom: 0.5rem;
+    padding: 0.5rem;
+    line-height: 1.5rem;
 }
 .recipe-instructions li::marker, .nutrient-value{
     font-weight: bold;
@@ -70,17 +77,14 @@ hr{
     padding: 1rem;
     border-bottom: 1px solid #ddd;
 }
-.attribution 
-{
+.attribution {
     font-size: 11px; 
     text-align: center; 
 }
-.attribution a 
-{
+.attribution a {
     color: hsl(228, 45%, 44%); 
 }
-footer 
-{
+footer {
     position: fixed;
     bottom: 0;
     width: 100%;
