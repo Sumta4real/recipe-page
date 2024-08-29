@@ -45,3 +45,9 @@ body{
 .bold{
     font-weight: bold;
 }
+.title{
+    color: hsl(14, 45%, 36%);
+}
+hr{
+    margin-top: 1.5rem;
+}
